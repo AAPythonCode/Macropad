@@ -117,6 +117,4 @@ Of course, after you create a schematic, you'd better wire it to get one step cl
 ### Interface Issues
 
 Yet again, I was much more experienced with working with the KiCad's native interface, so getting used to even the wiring portion was a semi-nightmare. For example, I wasn't able to click the <span><img src="https://cdn.hackclub.com/01a1e081-48c8-7703-8ccf-619aed6f3160/Screenshot_2026-11-15_at_10.35.24_AM-removebg-preview%20(2).png" width="21"></span> key to create a via while wiring; it would just open a random menu similar to right-clicking! However, just like the schematic, I was able to change the hotkey settings to EasyEDA Standard, which had similar settings to that of KiCad's. 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2MjEyNDVdfQ==
--->
+
