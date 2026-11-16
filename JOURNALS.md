@@ -88,11 +88,14 @@ AND NOW...
 **The full schematic :)**
 ![enter image description here](https://cdn.hackclub.com/01a1dcf1-77ce-7505-a96f-4ccbd6cf2f57/Screenshot%202026-11-14%20at%206.02.48%E2%80%AFPM.png)
 
-**My life and savior during these dark times known as ADAPTING TO EASYEDA!1!!**
+**My life and savior during the dark times known as ADAPTING TO EASYEDA!!!**
+
 ![enter image description here](https://cdn.hackclub.com/01a1dcf4-74e2-7230-af67-6d3085d4b965/Screenshot%202026-11-14%20at%206.06.05%E2%80%AFPM.png)
 
 **This USBC port wasn't too hard to integrate :)**
 ![enter image description here](https://cdn.hackclub.com/01a1dcf5-f6db-75dc-a301-b2c7a97ee93e/Screenshot%202026-11-14%20at%206.07.43%E2%80%AFPM.png)
+
+### TOTAL TIME SPENT: 3 Hours
 
 ## 11/5-11/8
 
@@ -117,4 +120,10 @@ Of course, after you create a schematic, you'd better wire it to get one step cl
 ### Interface Issues
 
 Yet again, I was much more experienced with working with the KiCad's native interface, so getting used to even the wiring portion was a semi-nightmare. For example, I wasn't able to click the <span><img src="https://cdn.hackclub.com/01a1e081-48c8-7703-8ccf-619aed6f3160/Screenshot_2026-11-15_at_10.35.24_AM-removebg-preview%20(2).png" width="21"></span> key to create a via while wiring; it would just open a random menu similar to right-clicking! However, just like the schematic, I was able to change the hotkey settings to EasyEDA Standard, which had similar settings to that of KiCad's. 
+
+And now...
+### Images!!!
+**Not too shabby :)**
+
+![](https://cdn.hackclub.com/01a1e1a7-65b0-7f40-8d80-19c62f619470/Screenshot%202026-11-15%20at%204.00.01%E2%80%AFPM.png)
 
