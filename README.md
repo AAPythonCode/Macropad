@@ -10,4 +10,11 @@ Traditionally, macropads are used to create shortcuts for simply but repetitive 
 Pretty cool, huh?
 
 ### BOM (Bill Of Materials)
-
+| Item | Manufacturer | Price | Link |
+|------|-------------|--------|------|
+| Cherry MX Switches | AliExpress | $3.65 | [Link](https://shorturl.at/ydW2y) |
+| Keycaps | AliExpress | $2.47 | [Link](https://shorturl.at/R5muk) |
+| Diodes | AliExpress | $1.56 | [Link](https://shorturl.at/MqbZW) |
+| OLED (0.91") | AliExpress | $3.38 | [Link](https://shorturl.at/dDBxE) |
+| Rotary Encoder | AliExpress | $2.89 | [Link](https://shorturl.at/HBawA) |
+| PCB | Depends | $12.04 | 
