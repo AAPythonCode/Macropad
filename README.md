@@ -10,6 +10,9 @@ Traditionally, macropads are used to create shortcuts for simply but repetitive 
 Pretty cool, huh?
 
 ### BOM (Bill Of Materials)
+
+Do it yourself (or admire the images below :)
+
 | Item | Manufacturer | Price | Link |
 |------|-------------|--------|------|
 | Cherry MX Switches | AliExpress | $3.65 | [Link](https://shorturl.at/ydW2y) |
@@ -18,3 +21,17 @@ Pretty cool, huh?
 | OLED (0.91") | AliExpress | $3.38 | [Link](https://shorturl.at/dDBxE) |
 | Rotary Encoder | AliExpress | $2.89 | [Link](https://shorturl.at/HBawA) |
 | PCB | Depends | $12.04 | 
+
+### How do I make it?
+It's... actually pretty simple! You have to
+
+- Use the gerber files from this repository to order the PCB
+- Order the components in the BOM
+- Solder on the components into their respective places
+- Put on the keycaps
+- Install the code from this repository onto the ESP32 using Arduino IDE (Here's the (install link)[https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.11_macOS_arm64.dmg]
+- Enjoy :)
+
+> [!IMPORTANT] Solder on the diodes with the anode (+) on the right hole and the cathode (-) on the left!
+
+> [!NOTE] Feel free the change the code any way you like! This macropad is powered by a ESP32-C3, after all :)
