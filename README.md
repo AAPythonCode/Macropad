@@ -9,4 +9,5 @@ Traditionally, macropads are used to create shortcuts for simply but repetitive 
 
 Pretty cool, huh?
 
-### What parts does it use? (BOM)
+### BOM (Bill Of Materials)
+
