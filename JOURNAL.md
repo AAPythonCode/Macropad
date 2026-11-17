@@ -1,6 +1,6 @@
 
 
-# JOURNALS.md
+# JOURNAL.md
 
   
 
