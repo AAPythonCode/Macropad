@@ -1,5 +1,6 @@
 # Macropad V1
-### A message before we begin
+### A message from the author before we begin
+
 Hey! I'm Ayaan Dhir, a coding and hacking enthusiast who has made a couple projects (and broken them too 😜)! I love creating useful things for the better, and here's my shot at it!
 
 ### What is it?
@@ -21,7 +22,9 @@ Do it yourself (or admire the images below :)
 | OLED (0.91") | AliExpress | $3.38 | [Link](https://shorturl.at/dDBxE) |
 | Rotary Encoder | AliExpress | $2.89 | [Link](https://shorturl.at/HBawA) |
 |ESP32-C3 Super Mini | AliExpress | $2.69 | [Link](https://shorturl.at/nDMiV) |
-| PCB | Depends | $12.04 | N/A |
+| PCB | Depends | $57.11 | N/A |
+
+### TOTAL COST (Shipping + Taxes) : $79.75 
 
 ### How do I make it?
 It's... actually pretty simple! You have to
@@ -40,3 +43,14 @@ It's... actually pretty simple! You have to
 ### What does it look like?
 Here's the images!
 
+**The Schematic**
+
+<img width="890" height="862" alt="Screenshot 2026-11-16 at 6 17 23 PM" src="https://github.com/user-attachments/assets/6deaeaec-6466-413a-994d-edcd3531fdfa" />
+
+**The PCB**
+
+<img width="491" height="689" alt="Screenshot 2026-11-16 at 6 27 14 PM" src="https://github.com/user-attachments/assets/f8cff0ab-0ca7-4330-92ca-d06b8d6bf954" />
+
+**The 3D Render Of The PCB**
+
+<img width="872" height="932" alt="Screenshot 2026-11-16 at 6 19 38 PM" src="https://github.com/user-attachments/assets/f3addc8a-9b1b-4ef8-ac3c-1430210a50a6" />
