@@ -20,7 +20,8 @@ Do it yourself (or admire the images below :)
 | Diodes | AliExpress | $1.56 | [Link](https://shorturl.at/MqbZW) |
 | OLED (0.91") | AliExpress | $3.38 | [Link](https://shorturl.at/dDBxE) |
 | Rotary Encoder | AliExpress | $2.89 | [Link](https://shorturl.at/HBawA) |
-| PCB | Depends | $12.04 | 
+|ESP32-C3 Super Mini | AliExpress | $2.69 | [Link](https://shorturl.at/nDMiV) |
+| PCB | Depends | $12.04 | N/A |
 
 ### How do I make it?
 It's... actually pretty simple! You have to
@@ -28,10 +29,14 @@ It's... actually pretty simple! You have to
 - Use the gerber files from this repository to order the PCB
 - Order the components in the BOM
 - Solder on the components into their respective places
+> [!IMPORTANT]
+> Solder on the diodes with the anode (+) on the right hole and the cathode (-) on the left for each diode!
 - Put on the keycaps
-- Install the code from this repository onto the ESP32 using Arduino IDE (Here's the (install link)[https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.11_macOS_arm64.dmg]
-- Enjoy :)
+- Install the code from this repository onto the ESP32 using Arduino IDE (Here's the (install link)[https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.11_macOS_arm64.dmg] to install Arduino IDE.)
+> [!NOTE]
+> Feel free the change the code any way you like! This macropad is powered by a ESP32-C3, after all :)
+- You're done!
 
-> [!IMPORTANT] Solder on the diodes with the anode (+) on the right hole and the cathode (-) on the left!
+### What does it look like?
+Here's the images!
 
-> [!NOTE] Feel free the change the code any way you like! This macropad is powered by a ESP32-C3, after all :)
