@@ -1,13 +1,4 @@
 
-
-# JOURNAL.md
-
-  
-
-### Hi! I'm Ayaan, a 13-year old who creates cool things for fun! Here, I'll put all of my journal entries to document what I did over time.
-
-  
-
 ## 11/01/26
 
   
